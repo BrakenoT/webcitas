@@ -1,6 +1,6 @@
-# Control de Presupuesto creado en React
+# Lista de citas de pacientes creado en React
 
-controla los gastos de acuerdo a un presupuesto 
+agrega a la lista de citas medicas de tu mascota
 ## Deployment
 
 inicia el proyecto en terminal ctrl + ñ || ctrl + ´
